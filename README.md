@@ -20,5 +20,5 @@ Bu proje, Unity ve C# programlama dili kullanılarak geliştirilmiş bir uzay sa
 ## Görsel
 
 <div align="center">
-   <a href="hedef-url">Video</a>
+   <a href="https://github.com/zeynoaydn/3DSpaceWar/issues/1#issue-2134110425">Video</a>
 </div>
