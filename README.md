@@ -17,8 +17,8 @@ Bu proje, Unity ve C# programlama dili kullanılarak geliştirilmiş bir uzay sa
 - Space tuşu düşmanlara ateş edebilirsiniz.
 - Her düşmanın birden fazla canı vardır.
 
-## Görsel
+## Video
 
 <div align="center">
-   <a href="https://github.com/zeynoaydn/3DSpaceWar/issues/1#issue-2134110425">Video</a>
+   <a href="https://github.com/zeynoaydn/3DSpaceWar/issues/1#issue-2134110425">Buraya Tıklayınız</a>
 </div>
